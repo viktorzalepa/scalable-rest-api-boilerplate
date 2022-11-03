@@ -69,3 +69,5 @@ In order to run the tests follow these steps:
     ``` 
 #### Manual Testing & REST API Documentation
 The provided REST API has been documented using Swagger and it exposes the available documentation and a testing UI framework that can send HTTP requests, via [http://localhost/api/docs](http://localhost/api/docs).
+
+https://www.freecodecamp.org/news/nodejs-api-best-practices-for-scaling/
